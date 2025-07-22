@@ -22,9 +22,15 @@ Here are some of the technologies and tools I have experience with:
 * **Databases:** MySQL
 * **Version Control:** Git
 
+### 🎮 Interests & Future Explorations
+
+[![GameDev Interests](https://skillicons.dev/icons?i=gamemakerstudio,godot,unity)](https://skillicons.dev)
+
 ### 📊 My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AEsir364&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+Here you can see some of my GitHub activity, including my contributions and the languages I use most:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AEsir364&theme=radical)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AEsir364&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -32,9 +38,9 @@ Here are some of the technologies and tools I have experience with:
 
 Find me on my social networks:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanclímaco/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanclimaco/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alan.climaco)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://www.youtube.com/@AEsir547)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Fieb18)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](http://googleusercontent.com/youtube.com/9)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Fieb18)
 
 ---
