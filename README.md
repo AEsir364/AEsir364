@@ -16,13 +16,13 @@ Estou sempre buscando aprender e colaborar em projetos inovadores.
 
 Aqui estão algumas das tecnologias e ferramentas com as quais eu tenho algum conhecimento:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=androidstudio,kotlin,java,html,css,js,nodejs,react,python,mysql,git)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=androidstudio,kotlin,java,html,css,js,nodejs,react,python,mysql,git,vscode)](https://skillicons.dev)
 
 ### 🎮 Interesses e Futuras Explorações
 
 Tecnologias que quero explorar:
 
-[![Interesses em Desenvolvimento de Jogos](https://skillicons.dev/icons?i=gamemakerstudio,godot,unity)](https://skillicons.dev)
+[![Interesses em Desenvolvimento de Jogos](https://skillicons.dev/icons?i=gamemakerstudio,godot,unity,unreal,arduino,cs,cpp)](https://skillicons.dev)
 
 ### 📊 Minhas Estatísticas do GitHub
 
