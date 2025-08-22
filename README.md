@@ -22,7 +22,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu tenho algum co
 
 Tecnologias que quero explorar:
 
-[![Interesses em Desenvolvimento de Jogos](https://skillicons.dev/icons?i=gamemakerstudio,godot,unity,unreal,arduino,cs,cpp)](https://skillicons.dev)
+[![Interesses em Desenvolvimento de Jogos](https://skillicons.dev/icons?i=gamemakerstudio,godot,unity,unreal,arduino,cs,cpp,flutter,dart)](https://skillicons.dev)
 
 ### 📊 Minhas Estatísticas do GitHub
 
@@ -35,7 +35,6 @@ Tecnologias que quero explorar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanclimaco/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alan.climaco)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AEsir5470)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Fieb18)
 
 ---
